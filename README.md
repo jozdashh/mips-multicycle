@@ -1,2 +1,2 @@
 # mips-multicycle
-A Multicycle implementation of MIPS using VHDL.
+A Multicycle implementation of the MIPS instruction set architecture using VHDL
